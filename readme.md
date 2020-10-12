@@ -2,7 +2,7 @@
 
 # Description
 
-Phase I project to simulate automatic music selection to aid effort and pace through future segments of a planned run.
+Phase I project to simulate automatic music selection to aid effort and pace through future segments of a planned run. Interacts with Strava and Spotify API to get data and control music on user's device.
 
 run_playlist_presentation.py is a script that:
 
