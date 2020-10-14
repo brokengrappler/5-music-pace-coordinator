@@ -53,7 +53,7 @@ fbprophet==0.7.1
 
 # Sample Dashboard Snapshot
 
-!(/final_video/dashboard.png)
+![](/final_video/dashboard.png)
 
 # Next Phase(s)
 - incorporate rest days and heart rate predictions
