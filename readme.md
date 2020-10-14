@@ -51,6 +51,9 @@ fbprophet==0.7.1
 - **fb_forecast_cadence.py**: Script creates FB Prophet predictions on run cadence
 - **fb_forecast_pace.py**: Script creates FB Prophet predictions on run pace
 
+# Sample Dashboard Snapshot
+
+!(/final_video/dashboard.png)
 
 # Next Phase(s)
 - incorporate rest days and heart rate predictions
